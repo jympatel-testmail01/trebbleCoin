@@ -1,0 +1,6 @@
+{
+    "name": "testcoin",
+    "symbol": "tc",
+    "description": "TOKEN_DESC",
+    "image": "TOKEN_IMAGE_URL"
+  }
